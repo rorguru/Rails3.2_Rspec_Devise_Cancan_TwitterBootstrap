@@ -1,0 +1,11 @@
+Rails3.2 + Cucumber + Rspec + Twitter Bootstrap + Devise + CanCan
+============================================
+
+This project is sample code to show clients my skill in following parts.
+
+  Test-Driven-Development by using Rspec
+  Behavior-Driven-Development by using Cucumber
+  Front-end styling by using Twitter Bootstrap
+  Authentication system configuration by using Devise
+  Authorization system configuration by using CanCan
+  
